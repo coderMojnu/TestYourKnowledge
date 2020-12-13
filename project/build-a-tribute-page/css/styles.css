@@ -1,0 +1,74 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+#main {
+	max-width: 1000px;
+	margin: 0 auto;
+}
+#main > header {
+	color: #fff;
+}
+#title {
+	text-transform: uppercase;
+	text-align: center;
+}
+#img-div {
+	width: 100%;
+}
+#image {
+	width: 30%;
+	height: 30%;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	border-radius: 50%;
+	background: grey;
+}
+#img-caption {
+	text-align: center;
+	font-family: lato;
+	color: #000;
+}
+#tribute-info {
+	width: 50%;
+	margin-top: 32px;
+	border: 1px solid black;
+	padding: 16px;
+	font-size: 1.3em;
+	float: left;
+}
+#success-by-year {
+	width: 33%;
+	border: 1px solid black;
+	margin-top: 32px;
+	padding: 16px;
+	font-size: 1.3em;
+	margin-bottom: 10px;
+	float: right;
+}
+#success-by-year > ul {
+	list-style-type: none;
+}
+footer {
+	clear: both;
+	background: #800000;
+	color: #fff;
+	text-align: center;
+}
+@media (max-width: 768px){
+	#tribute-info {
+	width: 100%;
+	margin-top: 32px;
+	border: 1px solid black;
+	padding: 16px;
+	font-size: 1.3em;
+}
+#success-by-year {
+	width: 100%;
+	border: 1px solid black;
+	padding: 16px;
+	font-size: 1.3em;
+}
+}

@@ -1,0 +1,174 @@
+<!doctype html>
+<html lang="bn">
+	<head>
+		<title>Chapter 2 MCQ Chemistry | Structure of Matter</title>
+		<meta charset="utf-8"/>
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+		<link rel="styeelsheet" href="styles.css">
+		<style>
+			ol {
+			list-style-type: upper-alpha;
+			font-size: 1.35em;
+			}
+			.bohupodi {
+			list-style-type: lower-roman;
+			}
+			.responsive {
+			display: block;
+			margin-left: auto;
+			margin-right: auto;
+			width: 100%;
+			height: auto;
+			}
+			@media print {
+				h2 {
+				font-size: 14px;
+				}
+				h3 {
+				font-size: 14px;
+				}
+				ol {
+				font-size: 12px;
+				}
+				.responsive, .center {
+				height: 80px;
+				width: 80px;
+				}
+			}
+		</style>
+	</head>
+	<body>
+		<div class="container">
+			<div class="row">
+				<header>
+					<h1>Chapter 2 MCQ Chemistry | States of Matter</h1>
+				</header>
+				<hr>
+				<div class="col-lg-6">
+					<div>
+						<h2>1. সকল পদার্থ কয়টি অবস্থায় থাকতে পারে?</h2>
+						<ol>
+							<li> ৩</li>
+							<li> ৪</li>
+							<li> ৫</li>
+							<li> ৬</li> 
+						</ol>     
+					</div>
+					<div>
+						<h2>2. কক্ষ তাপমাত্রা বলতে কোন তাপমাত্রাকে বোঝানো হয়?</h2>
+						<ol>
+							<li> 0&#176;C</li> 
+							<li> 25&#176;C</li>
+							<li> 100&#176;C</li>
+							<li> 350&#176;C</li>
+						</ol>
+					</div>
+					<div>
+						<h2>3. কঠিন পদার্থের ক্ষেত্রে কোনটি সঠিক?</h2> 
+						<ol class="bohupodi">
+							<li> নির্দিষ্ট আকার ও আয়তন আছে</li>
+							<li> চাপ প্রয়োগে সংকুচিত হয়</li>
+							<li> আন্তকণা আকর্ষণ বল বেশি</li> 
+						</ol>
+						<h3>নিচের কোনটি সঠিক?</h3>
+						<ol>
+							<li>i &amp; ii</li>
+							<li>i &amp; iii</li>
+							<li>ii &amp; iii</li>
+							<li>i, ii &amp; iii</li>
+						</ol>
+					</div>
+					<div>
+						<h2>4. তাপ প্রয়োগে __।</h2> 
+						<ol>
+							<li>কঠিন পদার্থের আয়তন বৃদ্ধি হয় না</li>  
+							<li>তরল পদার্থের আয়তন কমে যায়</li> 
+							<li>গ্যাসীয় পদার্থের আয়তন সামান্য বৃদ্ধি পায়</li>
+							<li>কোনটিই নয়</li>    
+						</ol> 
+					</div>
+					<div>
+						<h2>5. কণার গতিতত্ত্বের ক্ষেত্রে কোনটি সঠিক নয়?</h2> 
+						<ol>
+							<li> কঠিন পদার্থের কণাগুলোর আন্তঃআণবিক শক্তি বেশি, গতিশক্তি নেই</li>
+							<li> তাপ প্রয়োগে কঠিন পদার্থের কণাগুলোর গতিশক্তি বৃদ্ধি পায়</li>
+							<li> গ্যাসীয় পদার্থের কণাগুলোর গতিশক্তি অনেক কম</li>  
+							<li> তরল পদার্থের কণাগুলো চলাচল করতে পারে</li>   
+						</ol>
+					</div>
+					<div>
+						<h2>6. কোন অবস্থায় পদার্থের ব্যপন হার বেশি হয়?</h2>
+						<ol>
+							<li> কঠিন</li>
+							<li> তরল</li> 
+							<li> বায়বীয়</li>
+						</ol> 
+					</div>
+				</div>
+				<div class="col-lg-6">
+					<div>
+						<h2>7. নিচের কোন গ্যাসটির ব্যাপন হার সবচেয়ে বেশি?</h2>
+						<ol>
+							<li> O<sub>2</sub></li>
+							<li> CH<sub>4</sub></li>
+							<li> N<sub>2</sub></li>
+							<li> Cl<sub>2</sub></li>  
+						</ol>  
+					</div>
+					Read : নিঃসরণ ও ব্যাপনের মধ্যে পার্থক্য । 
+					<div>
+						<h2>8. সিএনজি গ্যাসে মূলত কোন গ্যাস থাকে?</h2> 
+						<ol>
+							<li>মিথেন</li>
+							<li>প্রোপেন</li>
+							<li>বিউটেন</li>
+							<li>অক্সিজেন</li>  
+						</ol> 
+					</div>
+					<div>
+						<img src="img/h2o.jpg" class="responsive"/>
+						<h2>9. AB রেখাকে বলা হয়?</h2>   
+						<ol>
+							<li>গলানাংক রেখা</li> 
+							<li>বাষ্পীয় রেখা</li> 
+							<li>স্ফুটনাংক রেখা</li> 
+							<li>ঘনীভবন রেখা</li>      
+						</ol>   
+					</div> 
+					<div>
+						<h2>10. মোম অক্সিজেনের সাথে বিক্রিয়া করে নিচের কোনটি উৎপন্ন করে না? </h2> 
+						<ol>
+							<li>জলীয়বাষ্প</li> 
+							<li>মিথেন</li> 
+							<li>কার্বন ডাই অক্সাইড</li>
+							<li>তাপ</li>      
+						</ol>   
+					</div>  
+					<div>
+						<h2>11. কোনটি সঠিক নয়??</h2>  
+						<ol>
+							<li>বরফের গলানাংক 0&#176;C</li>
+							<li>বিশুদ্ধ সালফারের গলানাংক  115&#176;C</li>
+							<li>পানির স্ফুটনাংক 100&#176;C</li>
+							<li>খাবার লবণের গলানাংক 801&#176;C</li>     
+						</ol>   
+					</div>
+					<div>
+					<h2>12. নিচের কোনটি উর্ধ্বপাতিত পদার্থ নয়?</h2> 
+						<ol>
+							<li> I<sub>2</sub></li>
+							<li> AlCl<sub>3</sub></li>
+							<li> C<sub>10</sub>H<sub>8</sub></li>
+							<li> NaCl</li>    
+						</ol>       
+					</div>
+				</div>
+			</div>
+		</div> 
+	</body>
+</html>   
+	
+		
